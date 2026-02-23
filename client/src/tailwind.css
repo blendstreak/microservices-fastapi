@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.input-field{
+  @apply border border-1 rounded-md p-2 w-full focus:outline-none;
+}
